@@ -9,13 +9,13 @@ API Standards (Discussion by Sam):
 - Call to actions
 - Open discussion items
 
-Registration Contract (led by Jason):
+Registration Contract (Discussion by Jason):
 - Context / reminder on previous work
 - Comparison to other registration contracts
 - Context on decisions made in Edge City
 - Key discussion items
 - Next steps / call to action
 
-## Notes
+## Notes:
 
-## Video
+## Video:
