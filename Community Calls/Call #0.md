@@ -15,6 +15,7 @@ Registration Contract (Discussion by Jason):
 - Context on decisions made in Edge City
 - Key discussion items
 - Next steps / call to action
+- Document: https://enshrined-punch-a86.notion.site/Universal-Registry-Contract-143f46539a18809095adf4a14a5ff216
 
 ## Notes:
 https://docs.google.com/document/d/1lFqHBe9Yx1CGpdH-MZ0zsjTnLNNxFr1GCnoDEb8O6F8/edit?tab=t.0#heading=h.2whbk0my4lq5
