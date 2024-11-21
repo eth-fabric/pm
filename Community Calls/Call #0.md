@@ -8,6 +8,7 @@ API Standards (Discussion by Sam):
 - Next steps
 - Call to actions
 - Open discussion items
+- Reference Document: https://dear-twist-ac1.notion.site/Preconfirmations-API-Specification-1363b4619cb080a6a4cfd170c61771bc
 
 Registration Contract (Discussion by Jason):
 - Context / reminder on previous work
@@ -15,7 +16,7 @@ Registration Contract (Discussion by Jason):
 - Context on decisions made in Edge City
 - Key discussion items
 - Next steps / call to action
-- Document: https://enshrined-punch-a86.notion.site/Universal-Registry-Contract-143f46539a18809095adf4a14a5ff216
+- Reference Document: https://enshrined-punch-a86.notion.site/Universal-Registry-Contract-143f46539a18809095adf4a14a5ff216
 - Presentation: https://docs.google.com/presentation/d/1BeHVTQ6fOsGvA8-863gbCf0x4dm239lhSp1O_IXWong/edit#slide=id.p
 
 ## Notes:
