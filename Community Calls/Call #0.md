@@ -16,6 +16,7 @@ Registration Contract (Discussion by Jason):
 - Key discussion items
 - Next steps / call to action
 - Document: https://enshrined-punch-a86.notion.site/Universal-Registry-Contract-143f46539a18809095adf4a14a5ff216
+- Presentation: https://docs.google.com/presentation/d/1BeHVTQ6fOsGvA8-863gbCf0x4dm239lhSp1O_IXWong/edit#slide=id.p
 
 ## Notes:
 https://docs.google.com/document/d/1lFqHBe9Yx1CGpdH-MZ0zsjTnLNNxFr1GCnoDEb8O6F8/edit?tab=t.0#heading=h.2whbk0my4lq5
