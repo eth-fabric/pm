@@ -9,6 +9,7 @@ API Standards (Discussion by Sam):
 - Call to actions
 - Open discussion items
 - Reference Document: https://dear-twist-ac1.notion.site/Preconfirmations-API-Specification-1363b4619cb080a6a4cfd170c61771bc
+- Presentation: https://docs.google.com/presentation/d/18-3uL7l8nerMJYDBNa8S2wagSxStu7_phA3VlykT4jc/edit#slide=id.g318cd881b74_0_0
 
 Registration Contract (Discussion by Jason):
 - Context / reminder on previous work
