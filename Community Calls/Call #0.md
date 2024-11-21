@@ -1,5 +1,5 @@
 # Call 0
-# November 21, 2024 @ 9:30 EST
+# November 21, 2024 @ 9:00 EST
 
 ## Agenda:
 
