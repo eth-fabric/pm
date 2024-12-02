@@ -6,8 +6,9 @@
 API Standards (Discussion by Sam):
 - Context / reminder on previous work
 - Open Item:
-  - Slashing field discussion
-- Reference Document: https://dear-twist-ac1.notion.site/Preconfirmations-API-Specification-1363b4619cb080a6a4cfd170c61771bc
+  - Slash() Reference Implementation
+- Reference Document: [https://dear-twist-ac1.notion.site/Preconfirmations-API-Specification-1363b4619cb080a6a4cfd170c61771bc](https://github.com/ethereum-commitments/preconf-specs/pull/1)
+- Presentation: https://docs.google.com/presentation/d/1hYTLdn0cd00JLPfag1gDYh3TKW1SBNjQOCo-wI3__vA/edit#slide=id.p
 
 Registration Contract (Discussion by Jason):
 - Context / reminder on previous work
