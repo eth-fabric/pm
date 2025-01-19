@@ -7,6 +7,7 @@
     - Q&A / Concerns
 - Jason: High-level overview of changes and key decisions
     - Q&A / Concerns
+    - [Slides](https://docs.google.com/presentation/d/1XyanVtqDsRW6Y7XHAzF2iE7S9ABksNHcjppAxjeexI8/edit#slide=id.p)
 - Drew: Next steps for both of these / coordination on pushing out
 
 ## Notes:
