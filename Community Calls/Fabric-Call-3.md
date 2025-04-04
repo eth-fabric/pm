@@ -16,4 +16,4 @@ Agenda:
 https://docs.google.com/document/d/1lFqHBe9Yx1CGpdH-MZ0zsjTnLNNxFr1GCnoDEb8O6F8/edit?tab=t.0#heading=h.2whbk0my4lq5
 
 ## Video:
-TBU
+https://www.youtube.com/watch?v=iP16amgdO7A&t=1s
