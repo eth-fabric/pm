@@ -7,7 +7,6 @@ Agenda:
 - EIP-7917 Update
 - URC / Constraints API Update
 - Commitments API Perspectives
-- Gateway updates
 
 ## Call Link:
 - https://zoom.us/j/6432381649?pwd=AOAV3aT54OBn2omB2s2WZL8geH5Gre.1
