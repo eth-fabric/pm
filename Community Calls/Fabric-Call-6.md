@@ -1,10 +1,12 @@
 # Fabric Call 6 
-# 6/25/25 @ 10:00 AM EST
+# 6/26/25 @ 10:00 AM EST
 
 ## Agenda:
 
 Agenda:
-- TBU
+- Fabric updates and preconfs + ePBS (Jason)
+- Gateway updates (Gattaca)
+- Ethrex based stack (LambdaClass)
 
 ## Call Link:
 - TBU
